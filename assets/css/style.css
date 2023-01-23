@@ -1,0 +1,63 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(86, 83, 84);
+}
+
+header{
+    margin: 1.5rem;
+    height: 5rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    background-image: url("../img/fondo_crea.jpg");
+    background-position: center;
+    background-size: auto;
+    text-align: left;
+}
+
+header h1{
+    line-height: 0rem;
+    font-size: 50px;
+    margin-bottom: 3rem;
+}
+
+header p{
+    font-size: 20px;
+    line-height: 0rem;
+}
+
+main table{
+    width: 100%;
+    padding: 0rem;
+}
+
+main img{
+    width: 400px;
+    height: 400px;
+    margin: 0.5rem;
+    padding-top: 2rem;
+}
+
+main p{
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    margin: 0;
+}
+
+footer{
+    margin: 1.5rem;
+    height: 2rem;
+    border-radius: 1rem;
+    border: solid rgb(86, 83, 84) 2px;
+    position: center;
+    background-image: url("../img/fondo_crea.jpg");
+    background-position: center;
+    background-size: auto;
+    font-size: 20px;
+    line-height: 2rem;
+    text-align: center;
+}
+
+footer a{
+    text-decoration: none;
+}
